@@ -50,7 +50,8 @@ problem such as customer segmentation.
 13. Fitting the model with k=4 as optimal values
 14. Cluster Analysis and desired information can be drawn
 
-Project explanation video tagged below
+###  Project explanation video tagged below
+Quality is not good considering github restrictions of 10MB max file (let me know if there is another way)
 
 https://github.com/user-attachments/assets/c92a4e25-3e3c-4ae8-bd02-6678525b060f
 
